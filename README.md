@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fau.zan00000/)
 
-##### My Github Stats :
-
-![Fauzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan825-debug&show_icons=true&theme=tokyonight)
-
 ###
 
 <div align="center">
@@ -41,4 +37,6 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fauzan825-debug/Fauzan825-debug/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+##### My Github Stats :
+
+![Fauzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan825-debug&show_icons=true&theme=tokyonight)
