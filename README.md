@@ -26,9 +26,3 @@ Here are some ideas to get you started:
 ##### My Github Stats :
 
 ![Fauzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan825-debug&show_icons=true&theme=tokyonight)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fauzan825-debug/Fauzan825-debug/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fauzan825-debug/Fauzan825-debug/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fauzan825-debug/Fauzan825-debug/output/pacman-contribution-graph.svg">
-</picture>
