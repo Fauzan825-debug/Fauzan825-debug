@@ -26,3 +26,15 @@ Here are some ideas to get you started:
 ##### My Github Stats :
 
 ![Fauzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan825-debug&show_icons=true&theme=tokyonight)
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Fauzan825-debug/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Fauzan825-debug/Fauzan825-debug/output/snake.svg" alt="Snake animation" />
+
+###
