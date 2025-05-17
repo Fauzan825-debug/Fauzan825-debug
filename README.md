@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 ### Socials :
 
-![https://www.instagram.com/fau.zan00000/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+### Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fau.zan00000/)
 
 ##### My Github Stats :
 
