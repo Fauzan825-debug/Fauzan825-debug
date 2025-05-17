@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,kali&perline=3)](https://skillicons.dev)
 
-### Socials :
-
 ### Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fau.zan00000/)
@@ -37,6 +35,10 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fauzan825-debug/Fauzan825-debug/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fauzan825-debug/Fauzan825-debug/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fauzan825-debug/Fauzan825-debug/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fauzan825-debug/Fauzan825-debug/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
