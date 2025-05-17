@@ -33,6 +33,12 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/Fauzan825-debug/count.svg?"  />
 </div>
 
+###
+
 ##### My Github Stats :
 
 ![Fauzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan825-debug&show_icons=true&theme=tokyonight)
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVjY3p1dGg3ajEwN2p0enNtYWhka2N6bm5vaXhycmZkaWRzM2hlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" width="100" alt="Funny Pacman GIF" />
+</div>
